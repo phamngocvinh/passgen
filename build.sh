@@ -1,0 +1,1 @@
+pyinstaller ./src/passgen.py -w --onefile --name Passgen-v1.0.0-Linux --version-file version.rc --icon ./assets/icon.ico
