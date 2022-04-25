@@ -1,0 +1,1 @@
+pyinstaller ./src/passgen.py --onefile --name PassGen-v1.0.0-Windows --version-file version.rc --icon ./assets/icon.ico
